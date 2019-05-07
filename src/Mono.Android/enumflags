@@ -16,6 +16,7 @@ Android.Content.PM.PackageInfoFlags
 Android.Graphics.SaveFlags
 Android.Graphics.PaintFlags
 Android.Media.VolumeNotificationFlags
+Android.Views.Accessibility
 Android.Views.ShowAsAction
 Android.Views.GravityFlags
 Android.Views.FeedbackFlags
